@@ -1,0 +1,18 @@
+
+main:
+  - title: "Building"
+    url: /buildings
+  - title: "Bathrooms"  
+    url: /bathroom
+  - title: "Paving"
+    url: /pavings
+  - title: "Pergolas"
+    url: /pergolas
+  - title : "Cladding"
+    url : /cladding  
+  - title: "Contact Us"
+    url: /contacts
+  - title: "About Us"
+    url: /about/
+
+ 
