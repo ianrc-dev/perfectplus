@@ -1,5 +1,7 @@
 
 main:
+  - title: "About Us"
+    url: /about/
   - title: "Building"
     url: /buildings
   - title: "Bathrooms"  
@@ -12,7 +14,6 @@ main:
     url : /cladding  
   - title: "Contact Us"
     url: /contacts
-  - title: "About Us"
-    url: /about/
+
 
  
