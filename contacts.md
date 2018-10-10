@@ -4,7 +4,7 @@ title : "Contact Us"
 permalink : /contacts/
 ---
 
-*Call Dorcen Pfombe on +2783716199 or email us your details below for a speedy reply.*
+*Call Dorcen Pfombe on +27834716199 or email us your details below for a speedy reply.*
 
 <form method="POST" action="https://formspree.io/dorcepfombe@gmail.com">
   <input type="email" name="email" placeholder="Your email">
