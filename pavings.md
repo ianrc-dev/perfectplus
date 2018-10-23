@@ -1,6 +1,6 @@
 ---
 layout : splash
-permalink : /pavings/
+permalink : /pavings
 
 gallery:
   - url: /assets/images/Paving 1.jpg
