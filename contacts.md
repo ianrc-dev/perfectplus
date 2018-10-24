@@ -1,7 +1,7 @@
 ---
 layout : single
 title : "Contact Us"
-permalink : /contact
+permalink : /contact/
 ---
 
 *Call Dorcen Pfombe on +27834716199 or email us your details below for a speedy reply.*
